@@ -5,3 +5,5 @@
 /ParkingLot/.vs/ParkingLot/v16
 /ParkingLot/ParkingLot/obj
 /ParkingLot/ParkingLot.Common/obj
+/ParkingLot/ParkingLot.BusinessLayer/obj/Debug/netcoreapp3.1
+/ParkingLot/ParkingLot.BusinessLayer/obj
